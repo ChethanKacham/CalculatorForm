@@ -26,11 +26,10 @@ This project is a Windows application built using C# .NET for performing arithme
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ChethanKacham/CalculatorForm.git
-   cd StudentCourseManagement
    
-2. **Open the solution file (*.sln) in Visual Studio.**:
+2. **Open the folder and then click on solution file (*.sln) in Visual Studio.**
    
-3. **Build and run the solution.**:
+3. **Build and run the solution.**
    
 ---
 
