@@ -1,0 +1,16 @@
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\bin\Debug\net6.0-windows\ChethanKacham_Assignment02.exe
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\bin\Debug\net6.0-windows\ChethanKacham_Assignment02.deps.json
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\bin\Debug\net6.0-windows\ChethanKacham_Assignment02.runtimeconfig.json
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\bin\Debug\net6.0-windows\ChethanKacham_Assignment02.dll
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\bin\Debug\net6.0-windows\ChethanKacham_Assignment02.pdb
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.CalculatorForm.resources
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.csproj.GenerateResource.cache
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.AssemblyInfoInputs.cache
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.AssemblyInfo.cs
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.csproj.CoreCompileInputs.cache
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.dll
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\refint\ChethanKacham_Assignment02.dll
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.pdb
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ChethanKacham_Assignment02.genruntimeconfig.cache
+D:\Advance C# & .NET\C# Workspace\ChethanKacham_Assignment02\ChethanKacham_Assignment02\obj\Debug\net6.0-windows\ref\ChethanKacham_Assignment02.dll
